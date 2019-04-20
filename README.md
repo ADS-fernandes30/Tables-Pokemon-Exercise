@@ -1,2 +1,2 @@
 # Tables-Pokemon-Exercise
-Creating a table and adding external links with images
+Creating a simple table HTML and adding external links with images.
