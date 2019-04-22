@@ -1,2 +1,2 @@
 # Tables-Pokemon-Exercise
-Creating a simple table HTML and adding external links with images.
+The Web Developer Bootcamp - Creating a simple table HTML and adding external links with images.
